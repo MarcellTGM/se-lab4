@@ -1,0 +1,3 @@
+# input-6.txt - Test ALL mode with one store empty
+GT4500,0,0,2,0
+TORPEDO,ALL

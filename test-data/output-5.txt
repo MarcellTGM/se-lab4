@@ -1,0 +1,4 @@
+# output-5.txt
+SUCCESS
+FAIL
+SUCCESS
