@@ -1,4 +1,3 @@
-# Initialize the GT4500 with specific parameters for primary and secondary torpedo stores
-GT4500,5,0.0,3,0.0
-TORPEDO,SINGLE  # should fire from the primary store
-TORPEDO,SINGLE  # should fire from the secondary store (alternating)
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
